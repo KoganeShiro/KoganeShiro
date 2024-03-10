@@ -28,6 +28,6 @@
 
 <!-- ![KoganeShiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoganeShiro&show_icons=true&theme=radical) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KoganeShiro&theme=shadow-blue&date_format=M%20j%5B%2C%20Y%5D&card_width=838)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KoganeShiro&theme=shadow-blue&date_format=M%20j%5B%2C%20Y%5D&card_width=738)](https://git.io/streak-stats)
 
 #
