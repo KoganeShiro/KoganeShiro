@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello World ! 🌎🌍🌏
 
 <!--
 **KoganeShiro/KoganeShiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+### 📊 Stats
+
+![KoganeShiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoganeShiro&show_icons=true&theme=radical)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
