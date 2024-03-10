@@ -11,8 +11,8 @@
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />
 
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/376344/python.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="![image](https://github.com/KoganeShiro/KoganeShiro/assets/126095786/4e5e85ff-bf60-4e01-8e5c-af07f3c9bf9b)" />
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/376344/python.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="![image](https://github.com/KoganeShiro/KoganeShiro/assets/126095786/e73417f7-a343-4caa-9f15-1b941ed68dfa)" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="![image](https://github.com/KoganeShiro/KoganeShiro/assets/126095786/4e5e85ff-bf60-4e01-8e5c-af07f3c9bf9b)" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="![image](https://github.com/KoganeShiro/KoganeShiro/assets/126095786/b1514226-0f57-4cd7-9d7b-3505dbd58217)" />
