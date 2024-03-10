@@ -10,6 +10,7 @@
 <img align="left" alt="Powershell" width="30px" style="padding-right:10px;" src="https://www.gorelo.io/wp-content/uploads/2021/08/powershelllogo-e1629891081735.png" />
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />
 
+<br />
 
 <img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://www.svgrepo.com/show/376344/python.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
