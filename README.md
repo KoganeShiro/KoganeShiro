@@ -24,4 +24,8 @@
 
 ### 🖥️ My Projects
 
+[My 42 CUrsus projects](https://github.com/KoganeShiro/42_Cursus)
+
+[An endless runner (GameJam)](https://github.com/KoganeShiro/Elemental-Sphere_gamejam)
+
 #
