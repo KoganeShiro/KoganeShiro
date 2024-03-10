@@ -2,8 +2,9 @@
 
 **`French Student who loves bike and drawing`**
 
-### ![image](https://github.com/KoganeShiro/KoganeShiro/assets/126095786/a80de0b3-0764-4a04-b85a-8dff803068fe)
- Languages and Tools
+### 🧰 Languages and Tools
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="![image](https://github.com/KoganeShiro/KoganeShiro/assets/126095786/901bfb31-9362-4414-b557-443ecad9b8c6)" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="![image](https://github.com/KoganeShiro/KoganeShiro/assets/126095786/de5a13eb-c287-42dd-a211-0c398c7b4980)" />
