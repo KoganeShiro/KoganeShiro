@@ -10,6 +10,8 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="![image](https://github.com/KoganeShiro/KoganeShiro/assets/126095786/1f2f5cca-4300-44b1-8e23-bc745cb8191f)" />
 <img align="left" alt="Powershell" width="30px" style="padding-right:10px;" src="![image](https://github.com/KoganeShiro/KoganeShiro/assets/126095786/cc9f8848-8b41-47c8-b7f7-de9cf2d091c4)" />
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="![image](https://github.com/KoganeShiro/KoganeShiro/assets/126095786/3db49502-42fd-46ab-99de-fe5125dd9c6d)" />
+
+
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="![image](https://github.com/KoganeShiro/KoganeShiro/assets/126095786/38b08035-44b2-4721-ac09-544ad28cad04)" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="![image](https://github.com/KoganeShiro/KoganeShiro/assets/126095786/4e5e85ff-bf60-4e01-8e5c-af07f3c9bf9b)" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="![image](https://github.com/KoganeShiro/KoganeShiro/assets/126095786/e73417f7-a343-4caa-9f15-1b941ed68dfa)" />
