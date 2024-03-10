@@ -15,7 +15,7 @@
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />
+<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
