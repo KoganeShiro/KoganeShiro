@@ -6,7 +6,7 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" />
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://www.logo.wine/a/logo/Linux/Linux-Logo.wine.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" />
 <img align="left" alt="Powershell" width="30px" style="padding-right:10px;" src="https://www.gorelo.io/wp-content/uploads/2021/08/powershelllogo-e1629891081735.png" />
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />
 
