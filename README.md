@@ -3,10 +3,7 @@
 **`French Student who loves bike and drawing`**
 
 ### 🧰 Languages and Tools
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="![image](https://github.com/KoganeShiro/KoganeShiro/assets/126095786/901bfb31-9362-4414-b557-443ecad9b8c6)" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="![image](https://github.com/KoganeShiro/KoganeShiro/assets/126095786/de5a13eb-c287-42dd-a211-0c398c7b4980)" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="![image](https://github.com/KoganeShiro/KoganeShiro/assets/126095786/21dfabab-c55b-4c22-9aee-9353114b1f07)" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="![image](https://github.com/KoganeShiro/KoganeShiro/assets/126095786/1f2f5cca-4300-44b1-8e23-bc745cb8191f)" />
