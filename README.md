@@ -28,4 +28,6 @@
 
 [An endless runner (GameJam)](https://github.com/KoganeShiro/Elemental-Sphere_gamejam)
 
+[Some small python project](https://github.com/KoganeShiro/Small_Python_Project)
+
 #
