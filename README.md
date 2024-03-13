@@ -23,7 +23,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KoganeShiro&theme=shadow-blue&date_format=M%20j%5B%2C%20Y%5D&card_width=738)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoganeShiro&exclude_repo=github-readme-stats,KoganeShiro.github.io)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoganeShiro&exclude_repo=github-readme-stats,KoganeShiro.github.io) -->
 
 #
 
