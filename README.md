@@ -21,9 +21,7 @@
 <!-- ![KoganeShiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoganeShiro&show_icons=true&theme=radical) -->
 
 
-<!--[KoganeShiro's GitHub push streak stats](https://streak-stats.demolab.com?user=KoganeShiro&theme=shadow-blue&date_format=M%20j%5B%2C%20Y%5D&card_width=738) -->
-
-<a href="https://git.io/streak-stats"><img src="[https://streak-stats.demolab.com?user=KoganeShiro&theme=shadow-blue&date_format=M%20j%5B%2C%20Y%5D&card_width=500]" alt="KoganeShiro's GitHub streak stats"/></a>
+![KoganeShiro's GitHub push streak stats](https://streak-stats.demolab.com?user=KoganeShiro&theme=shadow-blue&date_format=M%20j%5B%2C%20Y%5D&card_width=738)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoganeShiro&exclude_repo=github-readme-stats)
 
