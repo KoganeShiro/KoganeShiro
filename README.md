@@ -1,6 +1,6 @@
 # Hello World ! 🌎🌍🌏
 
-**`French Student who loves bike and drawing`**
+**`French Student who love bike and drawing`**
 
 ### 🧰 Languages and Tools
 
