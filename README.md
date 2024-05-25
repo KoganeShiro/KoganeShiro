@@ -1,6 +1,6 @@
 # Hello World ! 🌎🌍🌏
 
-**`French Student who love bike and drawing`**
+**`French Student who love bike cycling and drawing`**
 
 ### 🧰 Languages and Tools
 
@@ -29,11 +29,20 @@
 
 ### 🖥️ My Projects
 
-[Some python projects i did that sparked my enthusiasm for programming.](https://github.com/KoganeShiro/Small_Python_Project)
-
 [My 42 Cursus projects](https://github.com/KoganeShiro/42_Cursus)
+
+<!-- [My planner]() -->
+
+[A collaborative project between an art and a programming school](https://github.com/KoganeShiro/DESY)
 
 [An endless runner (GameJam)](https://github.com/KoganeShiro/Elemental-Sphere_gamejam)
 
+<!--
+[Game projects]()
+
+[Web projects]()
+-->
+
+[Some python projects i did that sparked my enthusiasm for programming.](https://github.com/KoganeShiro/Small_Python_Project)
 
 #
