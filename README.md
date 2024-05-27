@@ -45,4 +45,3 @@
 
 [Some python projects i did that sparked my enthusiasm for programming.](https://github.com/KoganeShiro/Small_Python_Project)
 
-#
