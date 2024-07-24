@@ -9,7 +9,7 @@
     <!--
     <img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell,vim,figma,unity,godot,blender,py,c,cpp,cs,html,css,js,ts&perline=6" />
     -->
-    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vim,figma,unity,py,c,html,css,js&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vim,blender,unity,py,c,html,css,js&perline=6" />
   </a>
 </p>
 
@@ -35,9 +35,13 @@
 
 [A collaborative project between an art and a programming school](https://github.com/KoganeShiro/DESY)
 
+[Learn values by controling a light on a 3D object](https://github.com/KoganeShiro/3D-Object-Light-Controler)
+
 [An endless runner (GameJam)](https://github.com/KoganeShiro/Elemental-Sphere_gamejam)
 
 <!--
+[My Blender journey](https://github.com/KoganeShiro/Blender-Projects)
+
 [Game projects]()
 
 [Web projects]()
