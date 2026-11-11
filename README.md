@@ -28,14 +28,16 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoganeShiro&exclude_repo=github-readme-stats" alt="Top Langs">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KoganeShiro&exclude_repo=github-readme-stats" alt="Top Langs">
   <img src="https://c.tenor.com/paU7ZLSP3b0AAAAC/tenor.gif" alt="Programming GIF" align="right">
 </p>
 
-![KoganeShiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoganeShiro&show_icons=true&theme=radical)
+![KoganeShiro's GitHub stats](https://github-stats-extended.vercel.app/api?username=KoganeShiro&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=koganeshiro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://trophygithubreadmelang.cybee.dpdns.org/?username=koganeshiro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</p>
 
 #
 ### 🖥️ My Projects
